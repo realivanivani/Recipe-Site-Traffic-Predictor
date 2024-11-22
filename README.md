@@ -1,4 +1,3 @@
-```markdown
 # Recipe Traffic Prediction for Tasty Bytes
 
 ## Project Background
@@ -77,4 +76,3 @@ HTR = \frac{\text{High Traffic Recipes Featured}}{\text{Total Recipes Featured}}
 ---
 
 For further details, refer to the accompanying notebook with data cleaning, analysis, model development, and evaluation steps.
-```
